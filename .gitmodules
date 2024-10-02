@@ -1,0 +1,3 @@
+[submodule "template-core"]
+	path = template-core
+	url = git@github.com:upb-cn/template-core.git
